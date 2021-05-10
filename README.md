@@ -32,7 +32,7 @@ Hi there 👋
   
   <h3 align="left">Version Control:</h3>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  
+  <a href="https://github-scm.com/" target="_blank"> <img src="https://camo.githubusercontent.com/357f19138a1a4569442d4f95103b5abf8902eae05651a3e39aa7168278e9ca1b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875" alt="git" width="40" height="40"/> </a>
    
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mifrasgaffoor&show_icons=true&locale=en&layout=compact" alt="mifrasgaffoor" />
