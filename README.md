@@ -7,7 +7,7 @@ Hi there 👋
 - 📫 How to reach me: linkdin
 
 <h1 align="center">Hi 👋, I'm Mifras Gaffoor</h1>
-<h3 align="center" color:"red">A passionate frontend developer from Srilanka</h3>
+<h3 align="center" style="color:red;">A passionate frontend developer from Srilanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
