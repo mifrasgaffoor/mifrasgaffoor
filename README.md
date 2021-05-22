@@ -30,7 +30,7 @@ Hi there 👋
   <h3 align="left">Version Control:</h3>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
-   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mifrasgaffoor&show_icons=true&locale=en&layout=compact" alt="mifrasgaffoor" />
@@ -39,5 +39,6 @@ Hi there 👋
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&" alt="mifrasgaffoor" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=0e75b6&style=flat" alt="mifrasgaffoor" /> </p>
+   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
