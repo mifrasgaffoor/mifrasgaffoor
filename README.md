@@ -30,7 +30,8 @@ Hi there 👋
   <h3 align="left">Version Control:</h3>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
-   
+   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mifrasgaffoor&show_icons=true&locale=en&layout=compact" alt="mifrasgaffoor" />
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&locale=en" alt="mifrasgaffoor" /></p>
