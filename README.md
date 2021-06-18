@@ -36,7 +36,7 @@ Hi there 👋
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
  <h3 align="left">API Testing:</h3>
- 
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mifrasgaffoor&show_icons=true&locale=en&layout=compact" alt="mifrasgaffoor" />
