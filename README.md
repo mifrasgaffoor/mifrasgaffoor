@@ -41,7 +41,7 @@ Hi there 👋
 <p align="left"> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Package Manager:</h3>
-<p align="left"> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="heroku" width="40" height="40"/> 
+<p> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="heroku" width="40" height="40"/> 
  </a> </p <p align="left"> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mifrasgaffoor&show_icons=true&locale=en&layout=compact" alt="mifrasgaffoor" />
