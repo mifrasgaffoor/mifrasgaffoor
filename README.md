@@ -14,6 +14,16 @@ Hi there 👋
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <h3 align="left"> Frontend Deployment:</h3>
+ <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="nodejs" width="50" height="50"/> </a>
+ <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="express" width="50" height="50"/> </a>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  <h3 align="left">Backtend Frameworks:</h3>
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
