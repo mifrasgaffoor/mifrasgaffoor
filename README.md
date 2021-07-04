@@ -15,8 +15,8 @@ Hi there 👋
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <h3 align="left"> Frontend Deployment:</h3>
- <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="nodejs" width="50" height="50"/> </a>
- <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="express" width="50" height="50"/> </a>
+ <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/> </a>
+ <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="50" height="50"/> </a>
  
  
  
