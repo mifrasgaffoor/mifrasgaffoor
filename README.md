@@ -62,7 +62,7 @@ Hi there 👋
  
 
  
- <h3 align="left"> Frontend Deployment:</h3>
+ <h3 align="left"> Package Manager:</h3>
  <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="github" width="50" height="50"/> </a>
  <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="netlify" width="50" height="50"/> </a></br></br></br>
 
