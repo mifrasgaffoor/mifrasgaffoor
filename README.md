@@ -1,10 +1,9 @@
 Hi there 👋
 
-
 - 🔭 I’m currently working on my self
 - 🌱 I’m currently learning mern stack
 - 💬 Ask me about anything
-- 📫 How to reach me: linkdin
+- 📫 How to reach me: linkdin.
 
 <h1 align="center">Hi 👋, I'm Mifras Gaffoor</h1>
 <h3 align="center" style="color:red;">A passionate fullstack developer(MERN) from Srilanka</h3>
