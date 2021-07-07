@@ -61,8 +61,8 @@ Hi there 👋
 
  
  <h3 align="left"> Package Manager:</h3>
- <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="github" width="50" height="50"/> </a>
- <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="netlify" width="50" height="50"/> </a></br></br></br>
+ <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="github" width="40" height="40"/> </a>
+ <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="netlify" width="40" height="40"/> </a></br></br></br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mifrasgaffoor&show_icons=true&locale=en&layout=compact" alt="mifrasgaffoor" />
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&locale=en" alt="mifrasgaffoor" /></p>
