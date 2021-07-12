@@ -46,7 +46,7 @@ Hi there 👋
  
  
  
- <h3 align="left">Databases:</h3>
+ <h3 align="center">Databases:</h3>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  
@@ -73,8 +73,5 @@ Hi there 👋
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&locale=en" alt="mifrasgaffoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&" alt="mifrasgaffoor" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=0e75b6&style=flat" alt="mifrasgaffoor" /> </p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
