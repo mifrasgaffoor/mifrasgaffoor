@@ -5,7 +5,7 @@ Hi there 👋
 - 💬 Ask me about anything
 - 📫 How to reach me: linkdin.
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=0e75b6&style=flat" alt="mifrasgaffoor" /> </p>
-- <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+- <a href="https://github.com/mifrasgaffoor?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## Connect with me:
 <p align="left">
