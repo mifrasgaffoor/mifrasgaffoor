@@ -104,6 +104,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![E](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -113,7 +114,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXd-black?style=flat-square&logo=adobexd)
- 
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
  
  
  
