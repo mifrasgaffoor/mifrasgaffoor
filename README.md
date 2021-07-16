@@ -3,14 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=0e75b6&style=flat" alt="mifrasgaffoor" /> </p>
  <a href="https://github.com/mifrasgaffoor?tab=followers"><img src="https://img.shields.io/github/followers/mifrasgaffoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-
-[![Facebook](https://img.shields.io/badge/-Facebook-1572B6?style=flat-square&logo=facebook&link=https://facebook.com/mifras/)](https://facebook.com/Mifras Gaffoor/)
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
-[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahamed.safnaj)](https://www.facebook.com/ahamed.safnaj)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahamed-safnaj/)](https://www.linkedin.com/in/ahamed-safnaj/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/ahamed-safnaj)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
-[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/#)](https://www.instagram.com/#)
+[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/#)](https://stackoverflow.com/users/9752928/#)
+[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://#)
 
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
 
