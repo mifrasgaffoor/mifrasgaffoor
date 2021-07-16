@@ -118,6 +118,6 @@ Hi there 👋
  
  
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&" alt="mifrasgaffoor" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&" alt="mifrasgaffoor" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
