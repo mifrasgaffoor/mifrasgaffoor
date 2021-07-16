@@ -115,7 +115,11 @@
  
  
  
+### GITHUB TROPHIES
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=antonfrancisjeejo)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
  
 
  
