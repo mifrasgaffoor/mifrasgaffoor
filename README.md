@@ -78,7 +78,7 @@ Hi there 👋
  <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="netlify" width="40" height="40"/> </a></br></br></br>
  
  
- ## 🚀 Languages and Tools:
+ <!--## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
@@ -88,12 +88,8 @@ Hi there 👋
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    
-  
-    
 
-  
-</p>
+</p>-->
  
  
  
