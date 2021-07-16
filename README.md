@@ -95,7 +95,11 @@ Hi there 👋
  
  
  ## 📊 My Github Stats
-
+ <p align="center">
+    <a href="https://github.com/mifrasgaffoor/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mifras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
   <br/>
     <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifrasgaffoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -113,16 +117,12 @@ Hi there 👋
  
  
  
- <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
  
 
  
  
  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&" alt="mifrasgaffoor" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
