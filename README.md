@@ -104,6 +104,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
