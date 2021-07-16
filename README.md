@@ -4,9 +4,8 @@
  <a href="https://github.com/mifrasgaffoor?tab=followers"><img src="https://img.shields.io/github/followers/mifrasgaffoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamSafnaj/)](https://twitter.com/iamSafnaj/)
 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://twitter.com/iamSafnaj/)](https://twitter.com/iamSafnaj/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1572B6?style=flat-square&logo=facebook&link=https://facebook.com/mifras/)](https://facebook.com/Mifras Gaffoor/)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahamed.safnaj)](https://www.facebook.com/ahamed.safnaj)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahamed-safnaj/)](https://www.linkedin.com/in/ahamed-safnaj/)
