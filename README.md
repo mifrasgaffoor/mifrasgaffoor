@@ -4,15 +4,7 @@
  <a href="https://github.com/mifrasgaffoor?tab=followers"><img src="https://img.shields.io/github/followers/mifrasgaffoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<!--## Connect with me:
-<p align="left">
 
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>-->
 
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
 
