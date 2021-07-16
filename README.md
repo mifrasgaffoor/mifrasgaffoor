@@ -114,17 +114,6 @@
 <br/>
  
  
- 
-### GITHUB TROPHIES
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=antonfrancisjeejo)](https://github.com/ryo-ma/github-profile-trophy)<br>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
- 
-
- 
- 
- 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
