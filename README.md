@@ -17,10 +17,7 @@
 
 </p>-->
 
-<h1 align="center">Hi 👋, I'm Mifras Gaffoor</h1>
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
-
-
 
 <!--:mailbox: Reach me out!
 
@@ -150,14 +147,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-<br/>
-
 <a href="https://github.com/mifrasgaffoor/github-readme-activity-graph"><img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
-<br/>
- 
- 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
