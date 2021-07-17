@@ -106,6 +106,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXd-black?style=flat-square&logo=adobexd)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
  
  
  
