@@ -103,6 +103,7 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Git-black?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXd-black?style=flat-square&logo=adobexd)
