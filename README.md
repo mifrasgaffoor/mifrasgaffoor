@@ -4,9 +4,9 @@
  <a href="https://github.com/mifrasgaffoor?tab=followers"><img src="https://img.shields.io/github/followers/mifrasgaffoor?label=Followers&style=social" alt="GitHub Badge"></a>
  
  
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/#)](https://www.instagram.com/#)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=rose&link=https://www.instagram.com/#)](https://www.instagram.com/#)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=trueblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=yellow&link=https://stackoverflow.com/users/9752928/#)](https://stackoverflow.com/#)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=red&link=#)](https://#)
 
