@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=yellow&link=https://stackoverflow.com/users/9752928/#)](https://stackoverflow.com/#)
-[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=darkred&link=#)](https://#)
+[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=red&link=#)](https://#)
 
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
 
