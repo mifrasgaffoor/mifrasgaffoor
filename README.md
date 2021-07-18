@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=0e75b6&style=flat" alt="mifrasgaffoor" /> 
  <a href="https://github.com/mifrasgaffoor?tab=followers"><img src="https://img.shields.io/github/followers/mifrasgaffoor?label=Followers&style=social" alt="GitHub Badge"></a>
  
-contact me:
+ 
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=rose&link=https://www.instagram.com/#)](https://www.instagram.com/#)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
