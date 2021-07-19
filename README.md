@@ -10,9 +10,6 @@
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=red&link=#)](https://#)-->
 
 <!--<h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>-->
-
-
-
  
  ### Skills : <br/>
 
