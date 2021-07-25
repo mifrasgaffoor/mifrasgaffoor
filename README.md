@@ -49,7 +49,7 @@
   <a href="https://github.com/mifrasgaffoor?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
   </a>
- <!--## 📊 My Github Stats
+ ## 📊 My Github Stats
  <p align="center">
     <a href="https://github.com/mifrasgaffoor/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mifras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
