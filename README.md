@@ -1,6 +1,7 @@
  ### Hi there ! Mifras  Gaffoor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="33px" alt="hi">  <br/><br/>
 
 <h4>  Skills & Stack I work with :</h4><br/>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
@@ -31,6 +32,7 @@
  -->
  
 <h4>Contact me  :</h4><br/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-black?&style=flat-square&logo=instagram&logoColor=rose&link=https://www.instagram.com/#)](https://www.instagram.com/#)
 [![Facebook](https://img.shields.io/badge/Facebook-black?&style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
