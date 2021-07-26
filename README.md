@@ -31,7 +31,7 @@
 
  -->
  
-<h4>Contact me  :</h4><br/>
+<h4>Contact me  :</h4>
 
 [![Instagram](https://img.shields.io/badge/Instagram-black?&style=flat-square&logo=instagram&logoColor=rose&link=https://www.instagram.com/#)](https://www.instagram.com/#)
 [![Facebook](https://img.shields.io/badge/Facebook-black?&style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
