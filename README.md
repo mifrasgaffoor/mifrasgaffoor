@@ -1,4 +1,4 @@
- ###  Mifras  Gaffoor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="33px" alt="hi">  <br/>
+ <!--###  Mifras  Gaffoor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="33px" alt="hi">  <br/>
 
 <h4>  Skills & Stack I work with :</h4>
 
@@ -74,3 +74,4 @@
 <a href="https://github.com/mifrasgaffoor/github-readme-activity-graph"><img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
+-->
