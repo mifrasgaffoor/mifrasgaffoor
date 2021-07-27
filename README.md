@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) -->
 <!--![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -30,10 +30,10 @@
 
  -->
  
-<h4>Contact me  :</h4>
+<!--<h4>Contact me  :</h4>
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/) -->
 <!--[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=yellow&link=https://stackoverflow.com/users/9752928/#)](https://stackoverflow.com/#)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=red&link=#)](https://#)
 [![Instagram](https://img.shields.io/badge/Instagram-black?&style=flat-square&logo=instagram&logoColor=rose&link=https://www.instagram.com/#)](https://www.instagram.com/#)
@@ -46,18 +46,19 @@
 
 <!--<h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>-->
  
-
+<!--
  
   <h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> 
  <!--<a href="https://github.com/mifrasgaffoor?tab=followers"><img src="https://img.shields.io/github/followers/mifrasgaffoor?label=Followers&style=social" alt="GitHub Badge"></a>-->
  
+ <!--
   <a href="https://github.com/mifrasgaffoor?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
   </a>
  
- 
+ -->
  
  <!--## 📊 My Github Stats
  <p align="center">
