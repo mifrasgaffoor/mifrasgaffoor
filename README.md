@@ -5,7 +5,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass)
 <!--![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass)
