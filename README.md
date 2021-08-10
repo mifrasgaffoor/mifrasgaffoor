@@ -30,7 +30,7 @@
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
  
- 
+
 <h4>Contact me  :</h4>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
