@@ -40,10 +40,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-black?&style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
 
 -->
-
 <!--<h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>-->
- 
- 
   <h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> 
