@@ -35,7 +35,9 @@
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
  
+-->
 
+<!--
 <h4>Contact me  :</h4>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=skyblue&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/mifras-gaffoor-a4719b1b5/)
@@ -46,6 +48,8 @@
 
 
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
+-->
+
   <h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> 
