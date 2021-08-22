@@ -60,6 +60,7 @@
    <a href="https://github.com/mifrasgaffoor?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
   </a>
+ -->
  
  ## 📊 My Github Stats
  <p align="center">
