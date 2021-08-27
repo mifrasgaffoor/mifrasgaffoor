@@ -11,7 +11,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 
 <!--
 
@@ -33,8 +34,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXd-black?style=flat-square&logo=adobexd)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
-![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
+
  
 -->
 
@@ -72,7 +72,7 @@
   <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifrasgaffoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-  <!--
+  
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <<br/>
 <a href="https://github.com/mifrasgaffoor/github-readme-activity-graph"><img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
