@@ -7,6 +7,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
+
+<!--
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -50,7 +52,7 @@
 
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
 -->
-
+<!--
   <h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> 
@@ -72,7 +74,7 @@
   <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifrasgaffoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-  
+  <!--
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <<br/>
 <a href="https://github.com/mifrasgaffoor/github-readme-activity-graph"><img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
