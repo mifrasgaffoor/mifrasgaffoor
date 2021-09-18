@@ -52,7 +52,7 @@
 
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
 -->
-<!--
+
   <h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> 
@@ -61,7 +61,7 @@
    <a href="https://github.com/mifrasgaffoor?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
   </a>
- 
+ <!--
  
  ## 📊 My Github Stats
  <p align="center">
@@ -70,7 +70,7 @@
     </a>
   <br/>
 </p>
-    <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>-->
+    <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifrasgaffoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
