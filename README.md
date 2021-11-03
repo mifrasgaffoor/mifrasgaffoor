@@ -11,13 +11,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-<!--
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
+<!--
+
+
+
+
 
 <!--
 
