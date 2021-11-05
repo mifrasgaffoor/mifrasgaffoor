@@ -1,5 +1,5 @@
 ###  Mifras  Gaffoor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="33px" alt="hi">  <br/>
-🌱 Currently reading BSC (HONS) in Information Technology and Management,University of Moratuwa. </br>
+🌱 Currently reading BSc (Hons) in Information Technology and Management,University of Moratuwa. </br>
 🔎 Looking for internship in software engineer(fullstack) possition.</br>
 👀 Interested in coding & traveling </br>
 📫 Reach me: mifrasgaffoor@gmail.com</br>
