@@ -5,13 +5,13 @@
 📫 Reach me: mifrasgaffoor@gmail.com</br> -->
 <h4>Skills:</h4>
 
-
+![C](https://img.shields.io/badge/-language-black?style=flat-square&logo=C)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![C](https://img.shields.io/badge/-black?style=flat-square&logo=C)
+
 
 <!--
 
