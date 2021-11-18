@@ -5,7 +5,7 @@
 📫 Reach me: mifrasgaffoor@gmail.com</br> -->
 <h4>Skills:</h4>
 
-![C](https://img.shields.io/badge/-programming-black?style=flat-square&logo=C)
+![C](https://img.shields.io/badge/-Programming-black?style=flat-square&logo=C)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
