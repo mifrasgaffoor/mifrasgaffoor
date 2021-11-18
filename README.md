@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
+![C](https://img.shields.io/badge/-black?style=flat-square&logo=C)
 
 <!--
 
