@@ -12,18 +12,18 @@
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material%20ui&logoColor=blue)
-
-<!--
-
-
-
-
-
-<!--
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+<!--
+
+
+
+
+
+<!--
+
+
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXd-black?style=flat-square&logo=adobexd)
