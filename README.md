@@ -13,11 +13,11 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material%20ui&logoColor=blue)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=Tailwind%20CSS)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-black?style=flat-square&logo=Chakra%20UI)
 <!--
 
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=Tailwind%20CSS)
-
 
 <!--
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
