@@ -12,11 +12,11 @@
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material%20ui&logoColor=blue)
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=Tailwind%20CSS)
 <!--
 
 
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=Tailwind%20CSS)
 
 
 <!--
