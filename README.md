@@ -80,14 +80,14 @@
 
 
 <h3 align="center" style="color:red;">A passionate Fullstack Developer(MERN) from Srilanka</h3>
--->
 
-<!--  <h4>followers & viewes :</h4> 
+
+ <h4>followers & viewes :</h4> 
   
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> -->
 
  
-   <!-- <a href="https://github.com/mifrasgaffoor?tab=followers">
+   <a href="https://github.com/mifrasgaffoor?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
   </a>
  <!--
