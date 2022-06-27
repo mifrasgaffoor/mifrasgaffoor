@@ -3,7 +3,7 @@
 🔎 Looking for internship in software engineer(fullstack) possition.</br>
 👀 Interested in coding & traveling </br>
 📫 Reach me: mifrasgaffoor@gmail.com</br> -->
-<h4>Skills:</h4>
+<h4>Skills & Technologies :</h4>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
