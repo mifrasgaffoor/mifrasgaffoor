@@ -23,7 +23,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=#F62E5B) 
-![Ant Design](https://img.shields.io/badge/Ant Design-000000.svg?style=flat-square&logo=Ant Design&logoColor=#F62E5B) 
+![Ant Design](https://img.shields.io/badge/Antd-000000.svg?style=flat-square&logo=Antd&logoColor=#F62E5B) 
 
 
 
