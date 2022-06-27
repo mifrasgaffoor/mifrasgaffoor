@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logo)
-![Redux](https://img.shields.io/badge//redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=purple) 
+![Redux](https://img.shields.io/badge//redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=black) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=yellow)
