@@ -2,7 +2,7 @@
  🌱 Currently reading BSc (Hons) in Information Technology and Management,University of Moratuwa. </br>
 🔎 Looking for internship in software engineer(fullstack) possition.</br>
 👀 Interested in coding & traveling </br>
-📫 Reach me: mifrasgaffoor@gmail.com</br> -->  -->
+📫 Reach me: mifrasgaffoor@gmail.com</br> -->  
 <h4>Skills & Technologies :</h4>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
