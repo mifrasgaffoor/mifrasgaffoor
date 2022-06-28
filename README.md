@@ -27,12 +27,8 @@
 -->
 
 ## 📊 My Github Stats
- <p align="center">
-    <a href="https://github.com/mifrasgaffoor/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mifras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-  <br/>
-</p>
+  
+
     <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifrasgaffoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -99,7 +95,12 @@
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=red&link=#)](https://#)
 [![Instagram](https://img.shields.io/badge/Instagram-black?&style=flat-square&logo=instagram&logoColor=rose&link=https://www.instagram.com/#)](https://www.instagram.com/#)
 [![Facebook](https://img.shields.io/badge/Facebook-black?&style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/MifrasGaffoor)](https://www.facebook.com/MifrasGaffoor)
-
+ <p align="center">
+    <a href="https://github.com/mifrasgaffoor/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mifras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  <br/>
+</p>
 
 <h3 align="center" style="color:red;">A passionate Software Engineer(fullstack) from Srilanka</h3>
 
