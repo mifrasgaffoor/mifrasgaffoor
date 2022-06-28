@@ -5,24 +5,15 @@
 📫 Reach me: mifrasgaffoor@gmail.com</br> -->  
 <h4>Skills & Technologies :</h4>
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/redux-black.svg?style=flat-square&logo=redux&logoColor=purple) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)=
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=purple)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=red) 
+
 
 
 
@@ -59,7 +50,7 @@
 
 
 <!--
-
+![Redux](https://img.shields.io/badge/redux-black.svg?style=flat-square&logo=redux&logoColor=purple) 
 ![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material%20ui&logoColor=blue)
@@ -87,9 +78,17 @@
 
 
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
-
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
- 
+ ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+ ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=purple)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=red) 
 -->
 
 <!--
