@@ -11,11 +11,11 @@
 
 <img width="25%" align="right" alt="Github Image" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif" />
 
-- 🌱 I’m currently learning Laravel, js and Design
-- 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/mdnajmulhasan.sobuj)
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate
+- 👀 Interested in coding , traveling  & teaching </br>
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None !
+
   <br />
 
 
