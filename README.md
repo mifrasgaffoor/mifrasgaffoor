@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F7AE0D&background=3185FF00&multiline=true&lines=I'm+an+undergraduate+at++University+;of+Moratuwa)](https://git.io/typing-svg)
 
-
-
  <!-- <h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> /<a href="https://github.com/mifrasgaffoor?tab=followers">
@@ -18,8 +16,6 @@
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-  
-
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -47,8 +43,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://)
  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://)
-
-
 
 </div>
 
