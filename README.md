@@ -8,14 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F7AE0D&background=3185FF00&multiline=true&lines=I'm+an+undergraduate+at++University+;of+Moratuwa)](https://git.io/typing-svg)
 
 
-<h4>Skills & Technologies :</h4>
-
-
-
-
-
-
-
 
  <!-- <h4>followers & viewes :</h4> 
   
@@ -39,7 +31,19 @@
 </div>
 
 <br >
+
 ## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark" width="45%" >
+
+<br>
+
+
+
+
+
   
 
   
