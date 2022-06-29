@@ -137,12 +137,10 @@
 
 ## 🏆 Github Status
 
-<img  src="(https://github-readme-streak-stats.herokuapp.com?user=mifrasgaffoor&theme=Javascript&fire=DD0000" width="45%" align="right" >
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&theme=yeblu" width="45%" >
 <img  src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&show_icons=true&theme=dark" width="45%" >
+<!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&show_icons=true&theme=dark" width="45%" > -->
 
 <br>
 
