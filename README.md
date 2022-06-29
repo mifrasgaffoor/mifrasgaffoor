@@ -39,7 +39,7 @@
 </div>
 
 <br >
-## 📊 My Github Stats
+## 🏆 Github Status
   
 
   
