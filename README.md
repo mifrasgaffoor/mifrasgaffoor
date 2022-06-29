@@ -7,6 +7,34 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=F7AE0D&background=3185FF00&multiline=true&lines=I'm+an+undergraduate+at++University+of+Moratuwa)](https://git.io/typing-svg) 
 
+
+
+<img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+
+- 🌱 I’m currently learning Laravel, js and Design
+- 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
+- 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/mdnajmulhasan.sobuj)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Jack of all trades , Master of None !
+  <br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  <!-- <h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> /<a href="https://github.com/mifrasgaffoor?tab=followers">
