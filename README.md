@@ -141,6 +141,7 @@
 <div align="left">
 
 ###  🤞 Show some ❤️ by starring ⭐ some of the repositories!
+ <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">
