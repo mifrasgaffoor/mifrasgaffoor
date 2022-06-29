@@ -5,7 +5,7 @@
 📫 Reach me: mifrasgaffoor@gmail.com</br> -->  
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7AE0D&background=3185FF00&multiline=true&lines=I'm+an+undergraduate+at++University+;of+Moratuwa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F7AE0D&background=3185FF00&multiline=true&lines=I'm+an+undergraduate+at++University+;of+Moratuwa)](https://git.io/typing-svg)
 
 
 <h4>Skills & Technologies :</h4>
