@@ -30,7 +30,24 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
  </a>
 -->
+## 👨‍💻 Languages and Tools
 
+<div align="center">
+  
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+  
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+
+</div>
+
+<br >
 ## 📊 My Github Stats
   
 
