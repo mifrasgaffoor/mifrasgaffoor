@@ -147,7 +147,7 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&theme=yeblu" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&show_icons=true&theme=yeblu" width="45%"  >
-<img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"   />
+<img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"   width="100%"  />
 
 
 <br/>
