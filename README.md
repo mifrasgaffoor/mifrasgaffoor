@@ -3,6 +3,10 @@
 🔎 Looking for internship in software engineer(fullstack) possition.</br>
 👀 Interested in coding & traveling </br>
 📫 Reach me: mifrasgaffoor@gmail.com</br> -->  
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">  I'm  Mifras Gaffoor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=F7AE0D&background=3185FF00&multiline=true&lines=I'm+an+undergraduate+at++University+of+Moratuwa)](https://git.io/typing-svg) 
