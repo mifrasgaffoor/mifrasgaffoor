@@ -40,11 +40,7 @@
 
 
 
-  <h4>followers & viewes :</h4> 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> /<a href="https://github.com/mifrasgaffoor?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
- </a>
 ## 👨‍💻 Languages and Tools
 <br/>
 
@@ -58,14 +54,19 @@
   <code><img height="50" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="50" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="38" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   
   <!--
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
   
 -->
   </div>
+  <!--<h4>followers & viewes :</h4> 
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> /<a href="https://github.com/mifrasgaffoor?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
+ </a>
   <!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
