@@ -23,32 +23,11 @@
 
   <br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 ## 👨‍💻 Languages and Tools
 <br/>
 
 <div align="left">
-
-
- 
- 
  
  <div  align="center">
   <code><img height="50" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -62,6 +41,35 @@
   
 -->
   </div>
+ 
+ 
+ 
+ 
+ 
+ 
+ ## 🏆 Github Status
+
+
+<img  src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&theme=yeblu" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&show_icons=true&theme=yeblu" width="45%"  >
+<img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"   width="100%"  />
+
+
+<br/>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   <!--<h4>followers & viewes :</h4> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> /<a href="https://github.com/mifrasgaffoor?tab=followers">
