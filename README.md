@@ -45,6 +45,7 @@
 ![Redux](https://img.shields.io/badge/redux-black.svg?style=flat-square&logo=redux&logoColor=purple) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=yellow)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
