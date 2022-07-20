@@ -20,6 +20,10 @@
 - 👯 I’m looking to collaborate
 - 👀 Interested in coding , traveling  & teaching </br>
 - 😄 Pronouns: he/him/his
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate
+- 👀 Interested in coding , traveling  & teaching </br>
+- 😄 Pronouns: he/him/his
 
   <br />
 
