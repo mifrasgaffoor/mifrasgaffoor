@@ -50,7 +50,7 @@
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
+(https://skillicons.dev/icons?i=js,html,css,nextjs,prisma,react,tauri,tailwind,graphql,astro,deno,electron,remix,nodejs,git,express,emotion,postgres,ts)](https://skillicons.dev)
   
   
   
