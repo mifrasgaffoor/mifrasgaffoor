@@ -14,7 +14,7 @@
 
 
 
-<img width="30%" align="right" alt="Github Image" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<img width="50%" align="right" alt="Github Image" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 *🌱 I’m currently learning 
 *👯 I’m looking to collaborate
