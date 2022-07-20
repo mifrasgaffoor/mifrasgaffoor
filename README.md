@@ -51,7 +51,7 @@
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 -->
-[![My Skills]https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,git,github,express,mysql,ts,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,,react,nodejs,git,express,ts)](https://skillicons.dev)
   
   
   
