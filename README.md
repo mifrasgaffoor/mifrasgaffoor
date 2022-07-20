@@ -16,10 +16,10 @@
 
 <img width="30%" align="right" alt="Github Image" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-🌱 I’m currently learning 
-👯 I’m looking to collaborate
-👀 Interested in coding , traveling  & teaching </br>
-😄 Pronouns: he/him/his
+*🌱 I’m currently learning 
+*👯 I’m looking to collaborate
+*👀 Interested in coding , traveling  & teaching </br>
+*😄 Pronouns: he/him/his
 
 
   <br />
