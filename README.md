@@ -52,7 +52,7 @@
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 -->
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,redux,nodejs,nextjs,nestjs,git,github,express,mysql,mongodb,figma,idea,vscode,netlify&perline=16](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,redux,nodejs,nextjs,nestjs,git,github,express,mysql,mongodb,figma,idea,vscode,netlify&perline=16)](https://skillicons.dev)
   
   
   
