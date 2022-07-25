@@ -84,7 +84,7 @@
  <img alt="Mifras's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mifrasgaffoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"   width="100%"  />
  
 
-    <a href="https://github.com/mifrasgaffoor/github-readme-stats"><img alt="Mifras's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifrasgaffoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mifrasgaffoor)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
  
