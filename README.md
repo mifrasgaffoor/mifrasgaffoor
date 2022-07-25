@@ -16,12 +16,11 @@
 
 
 
-🌱 I’m currently learning  <br/>
+🌱 Currently Reading BSc (Hons.) in ITM ,University of Moratuwa. </br>
 👯 I’m looking to collaborate <br/>
+🔎 Looking for internship in Software Engineer Intern. </br>
 👀 Interested in coding , traveling  & teaching </br>
 😄 Pronouns: he/him/his <br/>
-🌱 Currently reading BSC (Hons.) in ITM ,University of Moratuwa. </br>
-🔎 Looking for internship in Software Engineer Intern. </br>
 📫 Reach me: mifrasgaffoor@gmail.com </br>
 👉 Portfolio : https://mifras.netlify.app/
 
