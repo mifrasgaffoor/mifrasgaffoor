@@ -20,7 +20,10 @@
 👯 I’m looking to collaborate <br/>
 👀 Interested in coding , traveling  & teaching </br>
 😄 Pronouns: he/him/his <br/>
-
+🌱 Currently reading BSC (Hons.) in ITM ,University of Moratuwa.
+🔎 Looking for internship in Software Engineer Intern.
+📫 Reach me: mifrasgaffoor@gmail.com
+👉 Portfolio : https://mifras.netlify.app/
 
   <br />
 
