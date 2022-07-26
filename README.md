@@ -12,10 +12,6 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=FEFE00&background=3185FF00&multiline=true&lines=I'm+an+undergraduate+at++University+of+Moratuwa)](https://git.io/typing-svg) 
 
 
-
-
-
-
 🌱 Currently Reading BSc (Hons.) in ITM ,University of Moratuwa. </br>
 👯 I’m looking to collaborate <br/>
 🔎 Looking for internship in Software Engineer Intern. </br>
@@ -25,8 +21,6 @@
 👉 Portfolio : https://mifras.netlify.app/
 
   <br />
-
-  
 ## 👨‍💻 Languages and Tools
 <br/>
 
