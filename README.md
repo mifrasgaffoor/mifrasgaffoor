@@ -14,7 +14,7 @@
 
 🌱 Currently Reading BSc (Hons.) in ITM ,University of Moratuwa. </br>
 👯 I’m looking to collaborate <br/>
-👀 Interested in coding , traveling  & teaching </br>
+👀 Interested in devlopment and ux desing & teaching </br>
 😄 Pronouns: he/him/his <br/>
 📫 Reach me: mifrasgaffoor@gmail.com </br>
 👉 Portfolio : https://mifras.netlify.app/
