@@ -14,7 +14,6 @@
 
 🌱 Currently Reading BSc (Hons.) in ITM ,University of Moratuwa. </br>
 👯 I’m looking to collaborate <br/>
-🔎 Looking for internship in Software Engineer Intern. </br>
 👀 Interested in coding , traveling  & teaching </br>
 😄 Pronouns: he/him/his <br/>
 📫 Reach me: mifrasgaffoor@gmail.com </br>
