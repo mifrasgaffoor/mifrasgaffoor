@@ -49,7 +49,43 @@
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 -->
-[![My Skills](https://skillicons.dev/icons?i=selenium,py,cs,java,postman,html,css,bootstrap,webpack,js,ts,angular,react,redux,materialui,styledcomponents,tailwind,vite,nodejs,nextjs,git,github,gitlab,express,mysql,mongodb,cloudflare,figma,idea,vscode,netlify,bash,jenkins,postman,jest,docker,aws,azure&perline=19&theme=light)](https://skillicons.dev)
+## My Skills
+
+### Programming Languages
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=csharp)](https://skillicons.dev)
+
+### Web Development
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+### Testing
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+
+### Databases
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+### DevOps & Cloud
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+
+### Design
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
   
   
   
