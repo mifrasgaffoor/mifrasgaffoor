@@ -15,7 +15,7 @@
 
 🌱 Currently Reading BSc (Hons.) in ITM ,University of Moratuwa. </br>
 👯 I’m looking to collaborate <br/>
-👀 Interested in devlopment and ux desing & teaching </br>
+👀 Championing Quality: Where Testing Meets Innovation.
 😄 Pronouns: he/him/his <br/>
 📫 Reach me: mifrasgaffoor@gmail.com </br>
 🌐 <a> mifrasgaffoor.me</a>
