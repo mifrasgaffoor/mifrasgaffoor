@@ -55,6 +55,12 @@
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
+### Testing
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![cypress](https://skillicons.dev/icons?i=cypress)](https://skillicons.dev)
+[![gherkin](https://skillicons.dev/icons?i=gherkin)](https://skillicons.dev)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 
 ### Web Technologies 
@@ -69,15 +75,9 @@
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
-### Testing
-[![Selenium](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![cypress](https://skillicons.dev/icons?i=cypress)](https://skillicons.dev)
-[![gherkin](https://skillicons.dev/icons?i=gherkin)](https://skillicons.dev)
-[![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 ### IDEs
-[![idea](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+[![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
 
 
