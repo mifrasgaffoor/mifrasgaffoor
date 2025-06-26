@@ -1,5 +1,6 @@
 <!-- ###  Mifras  Gaffoor 
- 🌱 Currently reading BSc (Hons) in Information Technology and Management,University of Moratuwa. </br>
+ 🌱 BSc (Hons) in Information Technology and Management,University of Moratuwa. </br>
+ 🌱 Currently reading MSc in Information Technology Management, University of Staffordshire. </br>
 🔎 Looking for internship in software engineer(fullstack) possition.</br>
 👀 Interested in coding & traveling </br>
 📫 Reach me: mifrasgaffoor@gmail.com</br> -->  
